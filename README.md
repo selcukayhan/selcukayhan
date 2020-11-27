@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm passionate SDET at <a href='http://www.mediamonks.com' target='_blank'>Mediamonks</a> focusing on latest Automation tools and frameworks. Feel free to contact me!
+I'm passionate SDET at <a href="http://www.mediamonks.com" target="_blank">Mediamonks</a> focusing on latest Automation tools and frameworks. Feel free to contact me!
 
 
 ![Selcuk's github stats](https://github-readme-stats.vercel.app/api?username=selcukayhan&hide=["issues"]&show_icons=true)
