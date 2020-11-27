@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=selcukayhan&hide=["issues"]&show_icons=true)
+![Selcuk's github stats](https://github-readme-stats.vercel.app/api?username=selcukayhan&hide=["issues"]&show_icons=true)
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/selcukayhan?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://selcukayhan.com/)](http://selcukayhan.com/)
 ![Linkedin Badge](https://img.shields.io/badge/-Selcuk%20Ayhan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/selcukayhan/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://selcukayhan.com/)](http://selcukayhan.com/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=selcukayhan.selcukayhan)
 
 <!--
