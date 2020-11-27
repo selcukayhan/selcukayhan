@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/slckayhn?label=Follow/slckayhn)
 [![Linkedin: selcukayhan](https://img.shields.io/badge/-selcuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selcukayhan/)](https://www.linkedin.com/in/selcukayhan/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=selcukayhan.selcukayhan)
 
