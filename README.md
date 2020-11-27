@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=selcukayhan&hide=["issues"]&show_icons=true)
+
 ---
 ![GitHub followers](https://img.shields.io/github/followers/selcukayhan?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://selcukayhan.com/)](http://selcukayhan.com/)
