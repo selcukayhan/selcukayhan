@@ -6,10 +6,11 @@ I'm passionate SDET at <a href="http://www.mediamonks.com" target="_blank">Media
 ![Selcuk's github stats](https://github-readme-stats.vercel.app/api?username=selcukayhan&hide=["issues"]&show_icons=true)
 
 ---
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-Selcuk%20Ayhan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/selcukayhan/)](https://www.linkedin.com/in/selcukayhan/)
 [![GitHub followers](https://img.shields.io/github/followers/selcukayhan?label=Followers&style=social&link=https://github.com/selcukayhan/)](https://github.com/selcukayhan/)
 [![website](https://img.shields.io/badge/selcukayhan.com-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://selcukayhan.com/)](http://selcukayhan.com/)
-
+-->
 <!--
 **selcukayhan/selcukayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
